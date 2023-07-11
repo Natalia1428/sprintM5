@@ -15,7 +15,11 @@ Queremos sistematizar esta información en una base de datos.
 ## Solución 
 
 Se creó una base de dato llamada "en_que_puedo_ayudarte".
-También el usuario "user_sprint_m5" con contraseña "123" con todos los privilegios para la base de dato.
+
+También un usuario con todos los privilegios para la base de dato.
+          >** usuario: user_sprint_m5
+          >** contraseña: 123
+  
 
 Se crearon 3 tablas:
   - usuarios : tiene información sobre: nombre, apellido, edad, correo electrónico y número de veces
