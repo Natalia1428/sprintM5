@@ -17,8 +17,8 @@ Queremos sistematizar esta información en una base de datos.
 Se creó una base de dato llamada "en_que_puedo_ayudarte".
 
 También un usuario con todos los privilegios para la base de dato.
-          >**usuario: user_sprint_m5**
-          >**contraseña: 123**
+> **usuario: user_sprint_m5**
+> **contraseña: 123**
   
 
 Se crearon 3 tablas:
